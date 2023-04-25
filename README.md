@@ -1,13 +1,7 @@
 ### Resumo de minhas habilidades profissionais
 
-- Lógica de programação: Java, C#, Python, PHP, JS, HTML5, CSS3.
-- Estruturação de Dados: Mysql.
-- Modelagem 3D: Blend, FBX, 3DS.
-- Design Gráfico: Adobe Photoshop, Adobe Ilustrator, Gimp.
-- Redes: Arduino e Lógica em topologia de redes.
-
-### Meu Perfil
-
-- Extrovertido e Paciênte.
-- Boa relação em equipe.
-- Experiência em Liderança.
+Possuo prática no desenvolvimento de aplicações web e 
+sistemas para Desktop, com repertório em linguagens de 
+código: HTML5, CSS3, JS, SQL, PHP, JAVA, Csharp e Python. 
+Além do uso de ferramentas como GitHub, Pacote Office e
+MySQL.
