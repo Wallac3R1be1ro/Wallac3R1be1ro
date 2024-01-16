@@ -3,7 +3,12 @@
 
 <p align="center">Em minha carreira, busco me especializar e aplicar meus conhecimentos conquistados pela minha formação técnica e tecnóloga de maneira prática situada em minha jornada profissional. Buscando atender as demandas exigidas pela empresa de maneira criativa e eficiente.</p>&nbsp;
 
-
+<div>
+  <a href="https://github.com/Wallac3R1be1ro">
+   <img height="a80em" src="https://github-readme-stats.vercel.app/api?username=Wallac3R1be1ro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="a80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallac3R1be1ro&layout=compact&langs_count=16&theme=dark"/>
+</div>
+    
 ### Habilidades
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
