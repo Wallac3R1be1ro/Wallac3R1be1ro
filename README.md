@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Wallac3R1be1ro/Wallac3R1be1ro\img/ImgPerfil.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Wallac3R1be1ro/Wallac3R1be1ro/img/ImgPerfil.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Em minha carreira, busco me especializar e aplicar meus conhecimentos conquistados pela minha formação técnica e tecnóloga de maneira prática situada em minha jornada profissional. Buscando atender as demandas exigidas pela empresa de maneira criativa e eficiente.</p>&nbsp;
