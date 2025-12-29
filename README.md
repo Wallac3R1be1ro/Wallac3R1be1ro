@@ -1,13 +1,7 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Wallac3R1be1ro/Wallac3R1be1ro/blob/main/img/ImgPerfil.png" />
-&nbsp;&nbsp;&nbsp;
-
+<h1>Olá,
+Meu nome é <span color="#4771b0">Wallace</span>
+Full Stack Developer</h1>
 <p align="center">Em minha carreira, busco me especializar e aplicar meus conhecimentos conquistados pela minha formação técnica e tecnóloga de maneira prática situada em minha jornada profissional. Buscando atender as demandas exigidas pela empresa de maneira criativa e eficiente.</p>&nbsp;
-
-<div>
-  <a href="https://github.com/Wallac3R1be1ro">
-   <img height="a80em" src="https://github-readme-stats.vercel.app/api?username=Wallac3R1be1ro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="a80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallac3R1be1ro&layout=compact&langs_count=16&theme=dark"/>
-</div>
     
 ### Habilidades
 
