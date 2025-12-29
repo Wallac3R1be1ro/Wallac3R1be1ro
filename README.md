@@ -1,5 +1,4 @@
-<h1>Olá,
-Meu nome é <span color="#4771b0">Wallace</span>
+<h1 align="center">Olá, Meu nome é <span>Wallace</span></ br>
 Full Stack Developer</h1>
 <p align="center">Em minha carreira, busco me especializar e aplicar meus conhecimentos conquistados pela minha formação técnica e tecnóloga de maneira prática situada em minha jornada profissional. Buscando atender as demandas exigidas pela empresa de maneira criativa e eficiente.</p>&nbsp;
     
@@ -43,3 +42,8 @@ Full Stack Developer</h1>
 </div>&nbsp;&nbsp;
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<style>
+    span{
+        color="#4771b0"
+    }
+</style>
